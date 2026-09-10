@@ -1,3 +1,10 @@
 {
-  "events": []
+  "events": [
+    {
+      "type": "install",
+      "device": "0c40bd91f38c07ea86ed5deb",
+      "version": "6.5.0",
+      "timestamp": "2026-09-10T17:33:11.259582Z"
+    }
+  ]
 }
