@@ -2,6 +2,12 @@
   "events": [
     {
       "type": "install",
+      "device": "0f7c18ebbec5a41cb125f288",
+      "version": "6.5.0",
+      "timestamp": "2026-09-14T09:57:31.283127Z"
+    },
+    {
+      "type": "install",
       "device": "7eb2707dbee224755c654a24",
       "version": "6.5.0",
       "timestamp": "2026-09-14T08:06:50.728256Z"
