@@ -4,6 +4,12 @@
       "type": "install",
       "device": "0c40bd91f38c07ea86ed5deb",
       "version": "6.5.0",
+      "timestamp": "2026-09-20T11:59:39.357458Z"
+    },
+    {
+      "type": "install",
+      "device": "0c40bd91f38c07ea86ed5deb",
+      "version": "6.5.0",
       "timestamp": "2026-09-20T06:01:03.785609Z"
     },
     {
@@ -593,12 +599,6 @@
       "device": "af28e7fdb395bf563043d911",
       "version": "6.5.0",
       "timestamp": "2026-09-11T03:29:52.393146Z"
-    },
-    {
-      "type": "install",
-      "device": "51a04428e8082e8e5e402b90",
-      "version": "6.5.0",
-      "timestamp": "2026-09-11T02:09:07.655215Z"
     }
   ]
 }
