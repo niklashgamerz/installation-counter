@@ -2,6 +2,12 @@
   "events": [
     {
       "type": "install",
+      "device": "164f86278763638ffbc88f01",
+      "version": "6.5.0",
+      "timestamp": "2026-11-02T14:26:03.498774Z"
+    },
+    {
+      "type": "install",
       "device": "884a013c35f9947fc4062998",
       "version": "6.5.0",
       "timestamp": "2026-11-02T06:40:04.388956Z"
@@ -593,12 +599,6 @@
       "device": "482c835be5c42c81f6dfc159",
       "version": "6.5.0",
       "timestamp": "2026-09-29T16:12:51.947306Z"
-    },
-    {
-      "type": "install",
-      "device": "f82844a5c06fa573c44c6bfc",
-      "version": "6.5.0",
-      "timestamp": "2026-09-29T14:32:39.792797Z"
     }
   ]
 }
